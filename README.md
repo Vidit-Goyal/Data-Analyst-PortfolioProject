@@ -80,12 +80,8 @@ Clear stagnant inventory strategically
 Improve marketing reach for low-performing vendors
 
 👤 Author & Contact
-
 **Vidit Goyal**
 Aspiring Data Analyst / Business Analyst
-
 📧 Email: Vidit.goyalccc@gmail.com
-
 🔗 LinkedIn: Vidit Goyal
-
 🔗 Portfolio: Data Analytics Projects
