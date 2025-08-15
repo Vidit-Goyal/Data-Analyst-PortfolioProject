@@ -82,7 +82,7 @@ Retail businesses risk profit losses due to:
 - Improve marketing reach for low-performing vendors
 
 
-# [Medical Insurance Customer Segmentation Analysis](https://github.com/Vidit-Goyal/Data-Analyst-PortfolioProject/blob/main/SQL%20Projects/SQL%20Project%202.docx)
+# [Medical Insurance Customer Segmentation Analysis (SQL Project)](https://github.com/Vidit-Goyal/Data-Analyst-PortfolioProject/blob/main/SQL%20Projects/SQL%20Project%202.docx)
 
 **Analyzing policyholder, policy, and claim data to improve operational performance, customer segmentation, and profitability.**
 
