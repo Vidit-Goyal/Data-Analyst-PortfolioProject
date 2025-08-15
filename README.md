@@ -6,6 +6,7 @@
 Analyzing vendor efficiency and profitability to drive strategic purchasing and inventory decisions using SQL, Python, and Power BI
 
 🔍 Overview
+
 Developed a complete data analytics pipeline to evaluate vendor performance, pricing efficiency, and inventory dynamics in the retail sector.
 
 SQL for ETL and data preparation
@@ -17,13 +18,13 @@ Power BI for interactive dashboards and insights presentation
 💼 Business Problem
 Retail businesses risk profit losses due to:
 
-Underperforming brands with inefficient pricing
+- Underperforming brands with inefficient pricing
 
-Over-reliance on a few major vendors
+- Over-reliance on a few major vendors
 
-Poor bulk purchasing strategies
+- Poor bulk purchasing strategies
 
-High holding costs from slow-moving stock
+- High holding costs from slow-moving stock
 
 📊 Dataset
 
