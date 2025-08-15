@@ -1,7 +1,5 @@
 # Data-Analyst-PortfolioProject
-  ## Capstone Project
-
-[Vendor Performance Analysis – Retail Inventory & Sales](https://github.com/Vidit-Goyal/Data-Analyst-PortfolioProject/blob/main/Capstone%20Project/Vendor%20Performance%20Analysis.docx)
+  ## [Capstone Project](https://github.com/Vidit-Goyal/Data-Analyst-PortfolioProject/blob/main/Capstone%20Project/Vendor%20Performance%20Analysis.docx)
 
   Retail Vendor Performance Analysis - Vendor, Inventory & Sales Analysis | SQL, Python & Power BI Insights
 
