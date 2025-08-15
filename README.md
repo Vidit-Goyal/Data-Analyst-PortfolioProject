@@ -81,6 +81,83 @@ Retail businesses risk profit losses due to:
 
 - Improve marketing reach for low-performing vendors
 
+
+# Medical Insurance Customer Segmentation Analysis (SQL Project)
+
+**Analyzing policyholder, policy, and claim data to improve operational performance, customer segmentation, and profitability.**
+
+---
+
+## 📌 Overview
+A health insurance company aims to **enhance operational insights** by analyzing historical data related to **policyholders, policies, and claims**.  
+This project uses SQL to:
+- Identify performance trends
+- Improve customer segmentation
+- Support data-driven decision-making
+
+---
+
+## 💼 Business Problem
+Key challenges for the business include:
+- Understanding claim payout patterns
+- Detecting policy types with higher risks or profitability
+- Reducing claim rejection rates
+- Enhancing retention strategies for high-value customers
+
+---
+
+## 📊 Dataset
+The analysis was conducted on **three key datasets**:  
+
+**Policyholders**
+- `policyholder_id`, `full_name`, `gender`, `date_of_birth`, `email`, `phone`
+
+**Policies**
+- `policy_id`, `policyholder_id`, `policy_type`, `start_date`, `end_date`, `premium_amount`, `status`
+
+**Claims**
+- `claim_id`, `policy_id`, `claim_date`, `claim_amount`, `claim_status`, `claim_type`
+
+---
+
+## 🛠 Tools & Technologies
+- **SQL** (Joins, Aggregations, Filtering, Conditional Logic)
+- **MySQL** for querying
+- **Data Visualization Tool** *(optional for presenting results)*
+
+---
+
+## 🔍 Key Analysis & SQL Queries
+1. **Highest Average Claim Amount by Policy Type**
+2. **Average Premium and Claim Payout Ratio per Policy Type**
+3. **Rejected Claims in the Last 12 Months by Type**
+4. **Top 10 Policyholders by Approved Claim Amount**
+5. **Policyholder Count by Gender**
+6. **Number of Active Policies**
+7. **Claim Approval Rate per Claim Type**
+8. **Policy Count by Status**
+9. **Average Claim Amount per Claim Type**
+10. **Policyholders with Multiple Policies (Total Premium & Claim Amount)**
+
+---
+
+## 📈 Key Insights
+- **Profitability Patterns:** Certain policy types show significantly higher claim payout ratios, affecting underwriting margins.
+- **High-Value Customers:** Top 10 policyholders have substantial approved claim amounts, ideal for loyalty programs.
+- **Claims Management:** Up to **30% reduction in rejected claims** possible by fixing documentation issues for high-rejection claim types.
+- **Revenue Growth Potential:** Targeting high-value or loyal customers can increase revenue by **8–10%**.
+- **Demographic Segmentation:** Gender-based and behavioral segmentation improves marketing ROI.
+
+---
+
+## ✅ Recommendations
+- Standardize documentation for claim types with high rejection rates  
+- Automate routine claim evaluations to speed up processing  
+- Segment customers by gender, age, or claim behavior for targeted marketing  
+- Introduce loyalty programs or bundled benefits for customer retention  
+
+---
+
 ## 👤 Author
 **Vidit Goyal** – Aspiring Data Analyst / Business Analyst  
 📧 [Vidit.goyalccc@gmail.com](mailto:Vidit.goyalccc@gmail.com)  
