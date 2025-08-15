@@ -57,7 +57,8 @@ Low-selling vendors → Mean Margin: 41.55%
 
 Hypothesis testing confirms statistically significant difference
 
-📈 Dashboard Features (View Interactive Dashboard)
+## 📈 Dashboard
+[**View Interactive Power BI Dashboard**](https://app.powerbi.com/groups/me/reports/3891a8e9-f979-4059-93bf-dd8c859a9dc8/1bbcb957271c3e1c65d7?experience=power-bi)
 
 Vendor-wise sales & profit margins
 
@@ -79,9 +80,8 @@ Clear stagnant inventory strategically
 
 Improve marketing reach for low-performing vendors
 
-👤 Author & Contact
-**Vidit Goyal**
-Aspiring Data Analyst / Business Analyst
-📧 Email: Vidit.goyalccc@gmail.com
-🔗 LinkedIn: Vidit Goyal
-🔗 Portfolio: Data Analytics Projects
+## 👤 Author
+**Vidit Goyal** – Aspiring Data Analyst / Business Analyst  
+📧 [Vidit.goyalccc@gmail.com](mailto:Vidit.goyalccc@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vidit-goyal/)  
+🔗 [Portfolio](https://github.com/Vidit-Goyal/Data-Analyst-PortfolioProject) 
