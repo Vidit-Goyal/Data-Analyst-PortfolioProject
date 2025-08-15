@@ -9,11 +9,11 @@ Analyzing vendor efficiency and profitability to drive strategic purchasing and 
 
 Developed a complete data analytics pipeline to evaluate vendor performance, pricing efficiency, and inventory dynamics in the retail sector.
 
-SQL for ETL and data preparation
+- SQL for ETL and data preparation
 
-Python (Pandas, Matplotlib, Seaborn, SciPy) for analysis & hypothesis testing
+- Python (Pandas, Matplotlib, Seaborn, SciPy) for analysis & hypothesis testing
 
-Power BI for interactive dashboards and insights presentation
+- Power BI for interactive dashboards and insights presentation
 
 💼 Business Problem
 Retail businesses risk profit losses due to:
@@ -28,58 +28,58 @@ Retail businesses risk profit losses due to:
 
 📊 Dataset
 
-Source: Kaggle retail sales dataset
+- Source: Kaggle retail sales dataset
 
-Data cleaned and structured for vendor-level performance analysis
+- Data cleaned and structured for vendor-level performance analysis
 
 🛠 Data Cleaning & Preparation
 
-Removed transactions with Gross Profit ≤ 0, Profit Margin ≤ 0, or Sales Quantity = 0
+- Removed transactions with Gross Profit ≤ 0, Profit Margin ≤ 0, or Sales Quantity = 0
 
-Created vendor-level KPI tables & merged lookup data
+- Created vendor-level KPI tables & merged lookup data
 
-Handled outliers (e.g., freight costs up to $257K) and large price variations
+- Handled outliers (e.g., freight costs up to $257K) and large price variations
 
 🔬 Exploratory Data Analysis & Key Insights
 
-Brands for Promotions: 198 brands with low sales but high margins → promotion opportunity
+- Brands for Promotions: 198 brands with low sales but high margins → promotion opportunity
 
-Vendor Concentration Risk: Top 10 vendors = 65.7% of purchases
+- Vendor Concentration Risk: Top 10 vendors = 65.7% of purchases
 
-Bulk Purchasing Benefit: 72% cost savings per unit for large orders
+- Bulk Purchasing Benefit: 72% cost savings per unit for large orders
 
-Inventory Turnover Issue: $2.71M worth of unsold inventory
+- Inventory Turnover Issue: $2.71M worth of unsold inventory
 
-Profitability Analysis:
+- Profitability Analysis:
 
-High-selling vendors → Mean Margin: 31.17%
+   - High-selling vendors → Mean Margin: 31.17%
 
-Low-selling vendors → Mean Margin: 41.55%
+   - Low-selling vendors → Mean Margin: 41.55%
 
-Hypothesis testing confirms statistically significant difference
+   - Hypothesis testing confirms statistically significant difference
 
 ## 📈 Dashboard
 [**View Interactive Power BI Dashboard**](https://app.powerbi.com/groups/me/reports/3891a8e9-f979-4059-93bf-dd8c859a9dc8/1bbcb957271c3e1c65d7?experience=power-bi)
 
-Vendor-wise sales & profit margins
+- Vendor-wise sales & profit margins
 
-Inventory turnover heatmaps
+- Inventory turnover heatmaps
 
-Bulk purchase cost savings visualization
+- Bulk purchase cost savings visualization
 
-Brand performance comparison
+- Brand performance comparison
 
 ✅ Final Recommendations
 
-Diversify vendor base to reduce dependency risk
+- Diversify vendor base to reduce dependency risk
 
-Optimize bulk purchasing to maximize cost savings
+- Optimize bulk purchasing to maximize cost savings
 
-Reprice or promote slow-moving, high-margin brands
+- Reprice or promote slow-moving, high-margin brands
 
-Clear stagnant inventory strategically
+- Clear stagnant inventory strategically
 
-Improve marketing reach for low-performing vendors
+- Improve marketing reach for low-performing vendors
 
 ## 👤 Author
 **Vidit Goyal** – Aspiring Data Analyst / Business Analyst  
