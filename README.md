@@ -107,6 +107,9 @@ Key challenges for the business include:
 ---
 
 ## 📊 Dataset
+
+- Source: Kaggle retail sales dataset
+
 The analysis was conducted on **three key datasets**:  
 
 **Policyholders**
